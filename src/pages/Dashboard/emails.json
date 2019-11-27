@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "name": "Nickael",
+            "lastname": "Bruzzi",
+            "state": "DF",
+            "city": "Brasília",
+            "email": "qaznickael@protonmail.com"
+        },
+        {
+            "name": "Felipe",
+            "lastname": "Olivera",
+            "state": "SP",
+            "city": "São Paulo",
+            "email": "felipeoliveiradeveloper@gmail.com"
+        },
+        {
+            "name": "Abel",
+            "lastname": "Abel",
+            "state": "SP",
+            "city": "São Paulo",
+            "email": "abel@abel.com"
+        }
+    ]
+}
